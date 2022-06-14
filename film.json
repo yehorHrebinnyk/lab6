@@ -1,0 +1,6 @@
+{
+	"data": [
+		{ "_id" : 1, "name" : "Film 1", "date" : 2022, "country" : "UK", "carrier" : "Casset", "producer" : "Producer 1", "director" : "Director 1", "actors_id" : [ 1, 2 ] },
+		{ "_id" : 2, "name" : "Film 2", "date" : 2012, "country" : "USA", "carrier" : "DVD", "resolution" : "720p", "codec" : "Codec 1", "producer" : "Producer 2", "director" : "Director 2", "actors_id" : [ 2, 3 ] }
+	]
+}
